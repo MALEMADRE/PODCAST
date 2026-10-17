@@ -1,1 +1,13 @@
-{"isim": "DİNLEO"
+[
+  {
+    "id": 1,
+    "title": "DPCOOPER ",
+    "desc": "DÜNYANIN EN ESRARENGİZ UÇAK KAZASI",
+    "category": "EĞİTİM",
+    "duration": "9:09",
+    "date": "Bugün",
+    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&auto=format&fit=crop&q=80",
+    "audioUrl": "https://archive.org/download/d.-b.-cooper-vakasi-tarihin-en-gizemli-ucak-kacirma-olayi-podcast-10.-bo-lu-m/D.B.%20Cooper%20Vakas%C4%B1%20Tarihin%20En%20Gizemli%20U%C3%A7ak%20Ka%C3%A7%C4%B1rma%20Olay%C4%B1%28PODCAST%2010.B%C3%96L%C3%9CM%29.mp3",
+    "isFeatured": true
+  }
+]
